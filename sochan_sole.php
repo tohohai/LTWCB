@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="chao.php" method="post">
+    <form action="sochan_sole.php" method="post">
     Nhap so: <input type="text" name="so"><br>   
     <input type="submit">
     </form>
