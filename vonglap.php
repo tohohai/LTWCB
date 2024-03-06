@@ -13,7 +13,6 @@
 </body>
 </html>
 
-
 <?php
     if(!empty($_POST['N']))
     {
@@ -22,8 +21,6 @@
         $gt=1;
         for($i=1;$i<=$N;$i++)
             $gt *= $i;    
-        
         echo $N ."!=" . $gt;
-        //
     }
 ?>
