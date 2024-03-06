@@ -14,7 +14,6 @@
 </body>
 </html>
 
-
 <?php
     if(!empty($_POST['so1']) && !empty($_POST['so2']))
     {
